@@ -6,6 +6,7 @@ streamlit
 pypdf
 faiss_cpu
 tiktoken
+chainlit
 chromadb
 openai
 sentence-transformers
